@@ -1,0 +1,17 @@
+.form-group{
+    position: absolute;
+    left: 20px;
+}
+
+/* removed number icon */
+        input[type="number"]::-webkit-inner-spin-button,
+        input::-webkit-outer-spin-button{
+            -webkit-appearance: none;
+        }
+
+/* removed calender icon */
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}

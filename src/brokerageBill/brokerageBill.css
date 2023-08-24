@@ -1,0 +1,44 @@
+.uppercontainer{
+    margin-top: 30px;
+}
+
+.lowercontainer{
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+    margin-top: 125px;
+    border: 2px solid rgb(193, 157, 50);
+    border-radius: 20px;
+}
+
+thead{
+    font-size: 20px;
+}
+
+td{
+    padding: 0 20px 0 20px;
+}
+tr{
+    line-height: 35px;
+}
+
+.btn {
+    font-size: 20px;
+    color: rgba(23, 95, 28, 0.677);
+    background: linear-gradient(to right bottom, rgba(160, 236, 144, 0.811), rgba(211, 201, 13, 0.844));
+    width: 150px;
+    border-radius: 50px;
+    border: 3px solid rgb(45, 112, 26);
+}
+
+.btn:hover {
+    color: rgba(50, 82, 18, 0.6);
+    background: linear-gradient(to right bottom, rgba(81, 223, 52, 0.811), rgba(216, 166, 66, 0.844));
+    border: 3px solid rgba(50, 82, 18, 0.2);
+}
+
+.submit-btn2{
+    position: absolute;
+    bottom: 320px;
+    left: 530px;
+}
